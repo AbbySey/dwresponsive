@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@media only screen and (max-width: 600px){
+	body{width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;}
+		header{height: 105px;
+		line-height: 105px;}
+		.topnav a{width: 100%;
+		backgroundcolor: white;
+		border-style: solid;
+		border-width: 1px;
+		border-color: white;}
+		.textpic{padding: 0px;
+		width: 100%;}
+		}
